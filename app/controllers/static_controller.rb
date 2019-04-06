@@ -1,7 +1,7 @@
 class StaticController < ApplicationController
 
    def index
-     render "views/index"
+     render "/index"
    end
 
 end
