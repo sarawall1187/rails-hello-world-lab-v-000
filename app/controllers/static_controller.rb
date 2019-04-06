@@ -1,6 +1,6 @@
 class StaticController < ApplicationController
 
-   def index
+   def hello_world
    end
 
 end
